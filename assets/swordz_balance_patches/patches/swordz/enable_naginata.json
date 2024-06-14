@@ -1,0 +1,17 @@
+[
+    // Enable naginata (voulge reskin)
+    {
+        op: "addmerge",
+        path: "/enabled",
+        value: true,
+        file: "swordz:itemtypes/polearms/naginata.json",
+        dependsOn: [{modid: "swordz"}]
+    },
+    {
+        op: "addmerge",
+        path: "/enabled",
+        value: true,
+        file: "swordz:itemtypes/polearms/parts/naginatahead.json",
+        dependsOn: [{modid: "swordz"}]
+    }
+]

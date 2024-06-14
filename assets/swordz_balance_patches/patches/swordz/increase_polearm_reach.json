@@ -1,0 +1,37 @@
+[
+    
+    // Increase range of naginata (reskinned voulge)
+    // Note: naginata is disabled by default.
+    // I enable it within enable_naginata.json
+    {
+        op: "addmerge",
+        path: "/attackRange",
+        value: 3.4,
+        file: "swordz:itemtypes/polearms/naginata.json",
+        dependsOn: [{modid: "swordz"}]
+    },
+    // Increase range of voulge.
+    {
+        op: "addmerge",
+        path: "/attackRange",
+        value: 3.4,
+        file: "swordz:itemtypes/polearms/voulge.json",
+        dependsOn: [{modid: "swordz"}]
+    },
+    // Increase range of warscythe.
+    {
+        op: "addmerge",
+        path: "/attackRange",
+        value: 3.4,
+        file: "swordz:itemtypes/polearms/warscythe.json",
+        dependsOn: [{modid: "swordz"}]
+    },
+    // Increase range of atgeir.
+    {
+        op: "addmerge",
+        path: "/attackRange",
+        value: 3.2,
+        file: "swordz:itemtypes/polearms/atgeir.json",
+        dependsOn: [{modid: "swordz"}]
+    }
+]

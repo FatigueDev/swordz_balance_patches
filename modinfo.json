@@ -1,0 +1,15 @@
+{
+    "type": "content",
+    "modid": "swordz_balance_patches",
+    "name": "Swordz Balance Patches",
+    "authors": [
+        "Lila"
+    ],
+    "RequiredOnServer": true,
+    "RequiredOnClient": true,
+    "description": "Balance patches for Swordz",
+    "version": "1.0.0",
+    "dependencies": {
+        "game": "1.19.8"
+    }
+}

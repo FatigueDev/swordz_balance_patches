@@ -1,0 +1,86 @@
+[
+    {
+        file: "swordz:recipes/grid/swords/armingsword.json",
+        op: "addmerge",
+        path: "/1/copyAttributesFrom",
+        value: "B",
+        dependsOn: [{modid: "swordz"}, {modid: "xskills"}]
+    },
+    {
+        file: "swordz:recipes/grid/swords/armingsword.json",
+        op: "addmerge",
+        path: "/2/copyAttributesFrom",
+        value: "B",
+        dependsOn: [{modid: "swordz"}, {modid: "xskills"}]
+    },
+    {
+        file: "swordz:recipes/grid/swords/armingsword.json",
+        op: "addmerge",
+        path: "/3/copyAttributesFrom",
+        value: "B",
+        dependsOn: [{modid: "swordz"}, {modid: "xskills"}]
+    },
+    {
+        file: "swordz:recipes/grid/swords/armingsword.json",
+        op: "addmerge",
+        path: "/5/copyAttributesFrom",
+        value: "B",
+        dependsOn: [{modid: "swordz"}, {modid: "xskills"}]
+    },
+    {
+        file: "swordz:recipes/grid/swords/armingsword.json",
+        op: "addmerge",
+        path: "/6/copyAttributesFrom",
+        value: "B",
+        dependsOn: [{modid: "swordz"}, {modid: "xskills"}]
+    },
+    {
+        file: "swordz:recipes/grid/swords/armingsword.json",
+        op: "addmerge",
+        path: "/7/copyAttributesFrom",
+        value: "B",
+        dependsOn: [{modid: "swordz"}, {modid: "xskills"}]
+    },
+    {
+        file: "swordz:recipes/grid/swords/armingsword.json",
+        op: "addmerge",
+        path: "/9/copyAttributesFrom",
+        value: "B",
+        dependsOn: [{modid: "swordz"}, {modid: "xskills"}]
+    },
+    {
+        file: "swordz:recipes/grid/swords/armingsword.json",
+        op: "addmerge",
+        path: "/10/copyAttributesFrom",
+        value: "B",
+        dependsOn: [{modid: "swordz"}, {modid: "xskills"}]
+    },
+    {
+        file: "swordz:recipes/grid/swords/armingsword.json",
+        op: "addmerge",
+        path: "/11/copyAttributesFrom",
+        value: "B",
+        dependsOn: [{modid: "swordz"}, {modid: "xskills"}]
+    },
+    {
+        file: "swordz:recipes/grid/swords/armingsword.json",
+        op: "addmerge",
+        path: "/13/copyAttributesFrom",
+        value: "B",
+        dependsOn: [{modid: "swordz"}, {modid: "xskills"}]
+    },
+    {
+        file: "swordz:recipes/grid/swords/armingsword.json",
+        op: "addmerge",
+        path: "/14/copyAttributesFrom",
+        value: "B",
+        dependsOn: [{modid: "swordz"}, {modid: "xskills"}]
+    },
+    {
+        file: "swordz:recipes/grid/swords/armingsword.json",
+        op: "addmerge",
+        path: "/15/copyAttributesFrom",
+        value: "B",
+        dependsOn: [{modid: "swordz"}, {modid: "xskills"}]
+    }
+]
